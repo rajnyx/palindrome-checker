@@ -1,0 +1,2 @@
+- [ ] Implement the home-page palindrome checker with real Stack/Queue operations, synchronized playback, comparison, live log, explanations, reset, and learning cards.
+- [ ] Verify manual/autoplay/pause/reset and test MADAM, HELLO, LEVEL, RACECAR, empty input, and a single character; confirm preview build succeeds.
